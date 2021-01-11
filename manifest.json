@@ -8,6 +8,7 @@
   "orientation": "any",
   "background_color": "#E1477E",
   "related_applications": [],
+  "permissions": ["webNavigation", "geolocation", "webRequest", "notifications" , "pageCapture", "idle", "downloads"],
   "prefer_related_applications": false,
   "icons": [
     {
