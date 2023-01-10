@@ -23,7 +23,7 @@
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@rollup/plugin-replace": "^2.3.3",
     "@rollup/plugin-strip": "^2.0.0",
-    "danger": "^10.6.0",
+    "danger": "^11.2.1",
     "eslint": "^7.17.0",
     "eslint-config-prettier": "^7.1.0",
     "eslint-plugin-import": "^2.22.1",
